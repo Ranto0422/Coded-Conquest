@@ -1,0 +1,245 @@
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Debug\Game test 2.exe
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game test 2.exe
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game test 2.pdb
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Debug\Game test 2.pdb
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Debug\Game_test_2.gameOverMenu.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\OneDrive - Malayan Colleges Laguna\2nd year\Game test 2\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\Game test 2\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\Game test 2\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Game test 2\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\Game test 2\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Game test 2 - Copy\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\Rui\Downloads\OneDrive_1_11-22-2024\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\Main_Program_CopyCharles\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Ryan\Main_Program_Ryan\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\bagof\Downloads\Main_Program_Lawrence\Main_Program_Ryan\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\MainProgram With sounds ni lawrence fixed\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\Main file with new enemy pause iu new (2)\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.Leaderboard.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.Leaderboard.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\MAIN FILE WITH PAUSUI AND NEW ENEMY\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.Leaderboard.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.2\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.Leaderboard.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\Rui\Downloads\OneDrive_2024-11-23\CCIS Latest Patch V.3\Game test 2\obj\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Debug\Game test 2.exe.config
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Debug\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.Leaderboard.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Debug\Game test 2.pdb

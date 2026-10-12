@@ -1,0 +1,4 @@
+Chronos Ship,30
+Cybernetics Ship,0
+Sentinels Ship,0
+Innovators Ship,0

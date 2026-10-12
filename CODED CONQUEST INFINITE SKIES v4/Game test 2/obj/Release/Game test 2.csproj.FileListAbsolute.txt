@@ -1,0 +1,30 @@
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Release\Game test 2.exe.config
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Release\Game test 2.exe
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\bin\Release\Game test 2.pdb
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game test 2.csproj.AssemblyReference.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game_test_2.SpaceShooterCCIs.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game_test_2.MainMenuForm.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game_test_2.Properties.Resources.resources
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game test 2.csproj.GenerateResource.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game test 2.csproj.CoreCompileInputs.cache
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game test 2.exe
+C:\Ryan\Game test\my game test 2\Game test 2\Game test 2\obj\Release\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Release\Game test 2.exe.config
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Release\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Release\Game test 2.pdb
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Release\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.csproj.AssemblyReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Interop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.csproj.ResolveComReference.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.SpaceShooterCCIs.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.Leaderboard.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.MainMenuForm.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.PickShip.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.Properties.Resources.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game_test_2.GameOverMenu.resources
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.csproj.GenerateResource.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.exe
+C:\Users\ryant\Desktop\CCIS Latest Patch V.4\Game test 2\obj\Release\Game test 2.pdb
